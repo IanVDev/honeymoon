@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC46E64827141FF600FB0385 /* ButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC46E64727141FF600FB0385 /* ButtonModifier.swift */; };
+		CC4CEF1D2714B91E00AF8656 /* CardTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC4CEF1C2714B91E00AF8656 /* CardTransition.swift */; };
+		CC820BF92714102C0017B874 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC820BF82714102C0017B874 /* FooterView.swift */; };
+		CC820BFC271411F60017B874 /* HeaderComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC820BFB271411F60017B874 /* HeaderComponent.swift */; };
+		CC820BFE271412BE0017B874 /* GuideComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC820BFD271412BE0017B874 /* GuideComponent.swift */; };
+		CC820C002714148B0017B874 /* GuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC820BFF2714148B0017B874 /* GuideView.swift */; };
+		CC820C0227141C570017B874 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC820C0127141C570017B874 /* InfoView.swift */; };
+		CC820C0427141D130017B874 /* TitleModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC820C0327141D130017B874 /* TitleModifier.swift */; };
+		CC85C9CF2714B0C8006CE076 /* SymbolModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC85C9CE2714B0C7006CE076 /* SymbolModifier.swift */; };
+		CCB6FCDE2713F23E009ACB1D /* sound-rise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CCB6FCDC2713F23E009ACB1D /* sound-rise.mp3 */; };
+		CCB6FCDF2713F23E009ACB1D /* sound-click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CCB6FCDD2713F23E009ACB1D /* sound-click.mp3 */; };
+		CCB6FCE12713F55B009ACB1D /* HoneymoonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCB6FCE02713F55B009ACB1D /* HoneymoonModel.swift */; };
+		CCB6FCE42713F5C9009ACB1D /* HoneyMoonData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCB6FCE32713F5C9009ACB1D /* HoneyMoonData.swift */; };
+		CCB6FCE82713F684009ACB1D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCB6FCE72713F684009ACB1D /* CardView.swift */; };
+		CCB6FCEA2713FB59009ACB1D /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCB6FCE92713FB59009ACB1D /* HeaderView.swift */; };
 		CCE1E9AD263B1EF200E01A12 /* HoneymoonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE1E9AC263B1EF200E01A12 /* HoneymoonApp.swift */; };
 		CCE1E9AF263B1EF200E01A12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCE1E9AE263B1EF200E01A12 /* ContentView.swift */; };
 		CCE1E9B1263B1EF500E01A12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCE1E9B0263B1EF500E01A12 /* Assets.xcassets */; };
@@ -14,6 +29,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CC46E64727141FF600FB0385 /* ButtonModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonModifier.swift; sourceTree = "<group>"; };
+		CC4CEF1C2714B91E00AF8656 /* CardTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardTransition.swift; sourceTree = "<group>"; };
+		CC820BF82714102C0017B874 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
+		CC820BFB271411F60017B874 /* HeaderComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderComponent.swift; sourceTree = "<group>"; };
+		CC820BFD271412BE0017B874 /* GuideComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideComponent.swift; sourceTree = "<group>"; };
+		CC820BFF2714148B0017B874 /* GuideView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuideView.swift; sourceTree = "<group>"; };
+		CC820C0127141C570017B874 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		CC820C0327141D130017B874 /* TitleModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleModifier.swift; sourceTree = "<group>"; };
+		CC85C9CE2714B0C7006CE076 /* SymbolModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolModifier.swift; sourceTree = "<group>"; };
+		CCB6FCDC2713F23E009ACB1D /* sound-rise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "sound-rise.mp3"; sourceTree = "<group>"; };
+		CCB6FCDD2713F23E009ACB1D /* sound-click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "sound-click.mp3"; sourceTree = "<group>"; };
+		CCB6FCE02713F55B009ACB1D /* HoneymoonModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoneymoonModel.swift; sourceTree = "<group>"; };
+		CCB6FCE32713F5C9009ACB1D /* HoneyMoonData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoneyMoonData.swift; sourceTree = "<group>"; };
+		CCB6FCE72713F684009ACB1D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		CCB6FCE92713FB59009ACB1D /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		CCE1E9A9263B1EF200E01A12 /* Honeymoon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Honeymoon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCE1E9AC263B1EF200E01A12 /* HoneymoonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoneymoonApp.swift; sourceTree = "<group>"; };
 		CCE1E9AE263B1EF200E01A12 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +63,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CC4CEF1B2714B8F000AF8656 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				CC4CEF1C2714B91E00AF8656 /* CardTransition.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		CC820BFA271411DA0017B874 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				CC820BFB271411F60017B874 /* HeaderComponent.swift */,
+				CC820BFD271412BE0017B874 /* GuideComponent.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		CC820C0527141D630017B874 /* Modifier */ = {
+			isa = PBXGroup;
+			children = (
+				CC820C0327141D130017B874 /* TitleModifier.swift */,
+				CC46E64727141FF600FB0385 /* ButtonModifier.swift */,
+				CC85C9CE2714B0C7006CE076 /* SymbolModifier.swift */,
+			);
+			path = Modifier;
+			sourceTree = "<group>";
+		};
+		CCB6FCDB2713F23E009ACB1D /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				CCB6FCDC2713F23E009ACB1D /* sound-rise.mp3 */,
+				CCB6FCDD2713F23E009ACB1D /* sound-click.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		CCB6FCE22713F57F009ACB1D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CCB6FCE02713F55B009ACB1D /* HoneymoonModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		CCB6FCE52713F5D2009ACB1D /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				CCB6FCE32713F5C9009ACB1D /* HoneyMoonData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		CCB6FCE62713F661009ACB1D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CCE1E9AE263B1EF200E01A12 /* ContentView.swift */,
+				CCB6FCE72713F684009ACB1D /* CardView.swift */,
+				CCB6FCE92713FB59009ACB1D /* HeaderView.swift */,
+				CC820BF82714102C0017B874 /* FooterView.swift */,
+				CC820BFF2714148B0017B874 /* GuideView.swift */,
+				CC820C0127141C570017B874 /* InfoView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		CCE1E9A0263B1EF200E01A12 = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +147,14 @@
 		CCE1E9AB263B1EF200E01A12 /* Honeymoon */ = {
 			isa = PBXGroup;
 			children = (
+				CC4CEF1B2714B8F000AF8656 /* Extension */,
+				CC820C0527141D630017B874 /* Modifier */,
+				CC820BFA271411DA0017B874 /* Components */,
+				CCB6FCE62713F661009ACB1D /* View */,
+				CCB6FCE52713F5D2009ACB1D /* Data */,
+				CCB6FCE22713F57F009ACB1D /* Model */,
+				CCB6FCDB2713F23E009ACB1D /* Sounds */,
 				CCE1E9AC263B1EF200E01A12 /* HoneymoonApp.swift */,
-				CCE1E9AE263B1EF200E01A12 /* ContentView.swift */,
 				CCE1E9B0263B1EF500E01A12 /* Assets.xcassets */,
 				CCE1E9B5263B1EF500E01A12 /* Info.plist */,
 				CCE1E9B2263B1EF500E01A12 /* Preview Content */,
@@ -126,6 +227,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCB6FCDE2713F23E009ACB1D /* sound-rise.mp3 in Resources */,
+				CCB6FCDF2713F23E009ACB1D /* sound-click.mp3 in Resources */,
 				CCE1E9B4263B1EF500E01A12 /* Preview Assets.xcassets in Resources */,
 				CCE1E9B1263B1EF500E01A12 /* Assets.xcassets in Resources */,
 			);
@@ -138,8 +241,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCB6FCE42713F5C9009ACB1D /* HoneyMoonData.swift in Sources */,
+				CC820C0227141C570017B874 /* InfoView.swift in Sources */,
+				CC820BF92714102C0017B874 /* FooterView.swift in Sources */,
+				CC820C0427141D130017B874 /* TitleModifier.swift in Sources */,
+				CC4CEF1D2714B91E00AF8656 /* CardTransition.swift in Sources */,
+				CC85C9CF2714B0C8006CE076 /* SymbolModifier.swift in Sources */,
+				CCB6FCEA2713FB59009ACB1D /* HeaderView.swift in Sources */,
+				CCB6FCE12713F55B009ACB1D /* HoneymoonModel.swift in Sources */,
+				CC46E64827141FF600FB0385 /* ButtonModifier.swift in Sources */,
+				CC820BFC271411F60017B874 /* HeaderComponent.swift in Sources */,
 				CCE1E9AF263B1EF200E01A12 /* ContentView.swift in Sources */,
 				CCE1E9AD263B1EF200E01A12 /* HoneymoonApp.swift in Sources */,
+				CCB6FCE82713F684009ACB1D /* CardView.swift in Sources */,
+				CC820BFE271412BE0017B874 /* GuideComponent.swift in Sources */,
+				CC820C002714148B0017B874 /* GuideView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +383,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Honeymoon/Preview Content\"";
 				DEVELOPMENT_TEAM = C9GX7XKL58;
@@ -279,6 +396,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "Ian-Vilhena.Honeymoon";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -289,6 +407,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Honeymoon/Preview Content\"";
 				DEVELOPMENT_TEAM = C9GX7XKL58;
@@ -301,6 +420,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "Ian-Vilhena.Honeymoon";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
